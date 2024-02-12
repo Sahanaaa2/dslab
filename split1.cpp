@@ -1,4 +1,4 @@
-//Specified element is last node of first list
+//Specified element is first node of second list
 #include<iostream>
 using namespace std;
 struct Node{
