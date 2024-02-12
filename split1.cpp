@@ -1,3 +1,4 @@
+//Specified element is last node of first list
 #include<iostream>
 using namespace std;
 struct Node{
